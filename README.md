@@ -1,2 +1,20 @@
-# student-grade-calculator
-a simple java program to calculate a student's marks percentage and grade
+# Student Grade Calculator
+
+A simple Java program that calculates a student's total marks, percentage and grade.
+
+## Features
+
+- Takes marks for multiple subjects
+- Calculates total marks
+- Calculates percentage
+- Displays the final grade
+
+## Concepts Used
+
+- Java
+- Loops
+- Conditional statements
+- User input
+- Variables
+- Basic calculations
+  
